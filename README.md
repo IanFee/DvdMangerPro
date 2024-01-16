@@ -1,5 +1,5 @@
 # JavaFinalProject
-    Welcome to our BlockBuster Store (renamed to SuperTrioStore)!
+    Welcome to our BlockBuster Store (renamed to DVDMangerPro)!
 ## Project Description
     The BlockBuster store is a DVD store that sells DVDs, including movies, games, and music. Users can connect to the application as an 
     admin, manager, or employee. Upon entering the correct username and password, users will be prompted with various actions based on their 
